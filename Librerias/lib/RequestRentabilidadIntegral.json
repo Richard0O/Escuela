@@ -1,0 +1,2334 @@
+{
+    "analisisConsolidado": {
+        "comisiones": {
+            "actual": 0.9465247163636364,
+            "concepto": "Comisiones",
+            "prom12Mes": 0.9428080176923077,
+            "proyectado1Mes": 0.9465247163636364,
+            "proyectadoPromVida": 0.9465247163636364,
+            "variacion": 0E-16
+        },
+        "lstConsolCaptacion": [
+            {
+                "actual": 198.2513449300000000,
+                "concepto": "Captación Tradicional",
+                "prom12Mes": 1325.7269676050000000,
+                "proyectado1Mes": 198.2514449300000000,
+                "proyectadoPromVida": 198.2514449300000000,
+                "variacion": 0.0001000000000000
+            },
+            {
+                "actual": 478.6136951200000000,
+                "concepto": "Mesa Dinero, SI y CB",
+                "prom12Mes": 4683.2747325600000000,
+                "proyectado1Mes": 478.6136951200000000,
+                "proyectadoPromVida": 478.6136951200000000,
+                "variacion": 0E-16
+            }
+        ],
+        "lstConsolCartera": [
+            {
+                "actual": 1462.3956988700000000,
+                "concepto": "Cartera",
+                "prom12Mes": 8741.8930021650000000,
+                "proyectado1Mes": 1462.3956988700000000,
+                "proyectadoPromVida": 1462.3956988700000000,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 51.2811775900000000,
+                "concepto": "Crédito de Nómina",
+                "prom12Mes": 180.3278677750000000,
+                "proyectado1Mes": 51.2811775900000000,
+                "proyectadoPromVida": 51.2811775900000000,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 8.4727879000000000,
+                "concepto": "Cartera Arrendadora y Factor",
+                "prom12Mes": 61.4906355500000000,
+                "proyectado1Mes": 8.4727879000000000,
+                "proyectadoPromVida": 8.4727879000000000,
+                "variacion": 0E-16
+            }
+        ],
+        "margenCaptacion": {
+            "actual": 2.4722785600000000,
+            "concepto": "Margen Captación",
+            "prom12Mes": 14.1710969350000000,
+            "proyectado1Mes": 2.4722795247200000,
+            "proyectadoPromVida": 2.4722795247200000,
+            "variacion": 9.647200000E-7
+        },
+        "margenCartera": {
+            "actual": 2.8519509300000000,
+            "concepto": "Margen Cartera",
+            "prom12Mes": 13.6392259226923077,
+            "proyectado1Mes": 2.8519509300000000,
+            "proyectadoPromVida": 2.8519509300000000,
+            "variacion": 0E-16
+        },
+        "roe": {
+            "actual": 0.3679386217686120,
+            "concepto": "ROE",
+            "prom12Mes": 0.5257948706067720,
+            "proyectado1Mes": 0.3679387529632368,
+            "proyectadoPromVida": 0.3679387529632368,
+            "variacion": 1.311946248E-7
+        },
+        "roeRar": {
+            "actual": 0.35281112806739393,
+            "concepto": "ROE Rar",
+            "prom12Mes": 0,
+            "proyectado1Mes": 0.35281121721849629,
+            "proyectadoPromVida": 0.35281121721849629,
+            "variacion": 8.915110236E-8
+        },
+        "totalCapital": {
+            "lstConsolidados": [
+                {
+                    "actual": 44.096042190967539265644,
+                    "concepto": "Capital por Riesgo de Crédito",
+                    "prom12Mes": 263.59683835931379603268096950000000,
+                    "proyectado1Mes": 44.096042190967539265644,
+                    "proyectadoPromVida": 44.096042190967539265644,
+                    "variacion": 0E-21
+                },
+                {
+                    "actual": 4.1024942072000000,
+                    "concepto": "Capital por Riesgo de Crédito - Cred Nómina",
+                    "prom12Mes": 14.42622942200000000000000000000000,
+                    "proyectado1Mes": 4.1024942072000000,
+                    "proyectadoPromVida": 4.1024942072000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0.6778230320000000,
+                    "concepto": "Capital por Arrendadora y Factor",
+                    "prom12Mes": 4.91925084400000000000000000000000,
+                    "proyectado1Mes": 0.6778230320000000,
+                    "proyectadoPromVida": 0.6778230320000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 5.0369926673324000,
+                    "concepto": "Capital por Riesgo de Mercado",
+                    "prom12Mes": 19.5870592784344000000000000000000000000,
+                    "proyectado1Mes": 5.0369925953324000,
+                    "proyectadoPromVida": 5.0369925953324000,
+                    "variacion": -7.20000000E-8
+                },
+                {
+                    "actual": 8.08700281462499088984655,
+                    "concepto": "Capital por Riesgo Operacional",
+                    "prom12Mes": 45.379406685562229404902145425000000000000,
+                    "proyectado1Mes": 8.08700280382499088984655,
+                    "proyectadoPromVida": 8.08700280382499088984655,
+                    "variacion": -1.080000000000000E-8
+                }
+            ],
+            "total": {
+                "actual": 62.00035491212493015549055,
+                "concepto": "Total Capital",
+                "prom12Mes": 347.908784589310425437583114925000000000000,
+                "proyectado1Mes": 62.00035482932493015549055,
+                "proyectadoPromVida": 62.00035482932493015549055,
+                "variacion": -8.280000000000000E-8
+            }
+        },
+        "totalCapitalRar": {
+            "actual": 90.800300273427906432069091862031250,
+            "concepto": "Total Capital Rar",
+            "prom12Mes": 0,
+            "proyectado1Mes": 0,
+            "proyectadoPromVida": 90.8003003046779064320690918620312500,
+            "variacion": 3.12500000000000000000000000E-8
+        },
+        "totalCaptacion": {
+            "actual": 676.8650400500000000,
+            "concepto": "Total Captación",
+            "prom12Mes": 0,
+            "proyectado1Mes": 676.8651400500000000,
+            "proyectadoPromVida": 676.8651400500000000,
+            "variacion": 0.0001000000000000
+        },
+        "totalCartera": {
+            "actual": 1522.1496643600000000,
+            "concepto": "Total Cartera",
+            "prom12Mes": 0,
+            "proyectado1Mes": 1522.1496643600000000,
+            "proyectadoPromVida": 1522.1496643600000000,
+            "variacion": 0E-16
+        },
+        "totalCostos": {
+            "actual": 1.78264399771280675,
+            "concepto": "Total Costos",
+            "prom12Mes": 6.3100602000000000,
+            "proyectado1Mes": 1.78264399771280675,
+            "proyectadoPromVida": 1.78264399771280675,
+            "variacion": 0E-17
+        },
+        "totalIngresos": {
+            "actual": 6.2707542063636364,
+            "concepto": "Total Ingresos",
+            "prom12Mes": 28.7531308753846154,
+            "proyectado1Mes": 6.2707551710836364,
+            "proyectadoPromVida": 6.2707551710836364,
+            "variacion": 9.647200000E-7
+        },
+        "totalMargen": {
+            "actual": 5.3242294900000000,
+            "concepto": "Margen Total",
+            "prom12Mes": 27.8103228576923077,
+            "proyectado1Mes": 5.3242304547200000,
+            "proyectadoPromVida": 5.3242304547200000,
+            "variacion": 9.647200000E-7
+        },
+        "utilDirOperativa": {
+            "actual": 4.48811020865082962,
+            "concepto": "Utilidad Directa Operativa",
+            "prom12Mes": 22.4430706753846154,
+            "proyectado1Mes": 4.48811117337082965,
+            "proyectadoPromVida": 4.48811117337082962,
+            "variacion": 9.6472000000E-7
+        },
+        "utilidadNeta": {
+            "actual": 1.9010270946276694526045312269903108,
+            "concepto": "Utilidad Neta",
+            "prom12Mes": 15.24405453134131960,
+            "proyectado1Mes": 1.9010277699316694563603610278834095,
+            "proyectadoPromVida": 1.9010277699316694526044926381903108,
+            "variacion": 6.753039999999999614112000000E-7
+        },
+        "utilidadNetaRar": {
+            "actual": 2.66961303069384974241485318479714279453125000000000,
+            "concepto": "Utilidad Neta Rar",
+            "prom12Mes": 0,
+            "proyectado1Mes": 0,
+            "proyectadoPromVida": 2.669613706191534273664853184797142794531250000000000,
+            "variacion": 6.75497684531250000000000000000000000000000000E-7
+        }
+    },
+    "analisisDetallado": {
+        "capital": {
+            "actual": 62000.35491212493015549024774,
+            "concepto": "Capital",
+            "idConcepto": 55,
+            "prom12Mes": 347908.7845893104254375831149250000000000000000,
+            "proyectado": 62000.35482932493015549024774,
+            "variacion": -0.00008280000000000000000
+        },
+        "comisiones": {
+            "actual": 946.5247163636363636,
+            "concepto": "Comisiones",
+            "idConcepto": 42,
+            "prom12Mes": 942.8080176923076923,
+            "proyectado": 946.5247163636363636,
+            "variacion": 0E-16
+        },
+        "comprobarRar": 0,
+        "comprobarUtNeta": 0E-35,
+        "detMargenCaptacion": {
+            "lstMargenCaptacion": [
+                {
+                    "actual": 1023.0605700000000000,
+                    "concepto": "Cheques con Intereses",
+                    "idConcepto": 33,
+                    "prom12Mes": 5415.9358800000000000,
+                    "proyectado": 1023.0605700000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 772.2924200000000000,
+                    "concepto": "Cheques sin Intereses",
+                    "idConcepto": 34,
+                    "prom12Mes": 4519.4539850000000000,
+                    "proyectado": 772.2924200000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 530.0040000000000000,
+                    "concepto": "Inversiones y Mesa Din",
+                    "idConcepto": 35,
+                    "prom12Mes": 3212.1266350000000000,
+                    "proyectado": 530.0040000000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crecimiento Ofrecido C/I",
+                    "idConcepto": 36,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crecimiento Ofrecido S/I",
+                    "idConcepto": 37,
+                    "prom12Mes": 0,
+                    "proyectado": 0.0009647200000000,
+                    "variacion": 0.0009647200000000
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Promedio Cheq Empl",
+                    "idConcepto": 38,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Recipr x Días de Dep",
+                    "idConcepto": 39,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 146.9215700000000000,
+                    "concepto": "SI y CB",
+                    "idConcepto": 40,
+                    "prom12Mes": 1023.5804350000000000,
+                    "proyectado": 146.9215700000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 2472.2785600000000000,
+                "idConcepto": 41,
+                "prom12Mes": 14171.0969350000000000,
+                "proyectado": 2472.2795247200000000,
+                "variacion": 0.0009647200000000
+            }
+        },
+        "detMargenColocacion": {
+            "lstMargenColocacion": [
+                {
+                    "actual": 2811.3017300000000000,
+                    "concepto": "Créditos Actuales",
+                    "idConcepto": 27,
+                    "prom12Mes": 13593.2034550000000000,
+                    "proyectado": 2811.3017300000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crédito de nómina adicional",
+                    "idConcepto": 29,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Créditos USD",
+                    "idConcepto": 30,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 40.6492000000000000,
+                    "concepto": "Arrendadora y Factor",
+                    "idConcepto": 31,
+                    "prom12Mes": 46.0224676923076923,
+                    "proyectado": 40.6492000000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 2851.9509300000000000,
+                "idConcepto": 32,
+                "prom12Mes": 13639.2259226923076923,
+                "proyectado": 2851.9509300000000000,
+                "variacion": 0E-16
+            }
+        },
+        "detalladoCaptacion": {
+            "lstCaptacion": [
+                {
+                    "actual": 113016.3551900000000000,
+                    "concepto": "Cheques con intereses",
+                    "idConcepto": 18,
+                    "prom12Mes": 718716.2289100000000000,
+                    "proyectado": 113016.3551900000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 85234.9897400000000000,
+                    "concepto": "Cheques sin Intereses",
+                    "idConcepto": 19,
+                    "prom12Mes": 604552.3491700000000000,
+                    "proyectado": 85234.9897400000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 449509.5190200000000000,
+                    "concepto": "Inversiones y Mesa Din",
+                    "idConcepto": 20,
+                    "prom12Mes": 2854597.0711350000000000,
+                    "proyectado": 449509.5190200000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crecimiento Ofrecido C/I",
+                    "idConcepto": 21,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crecimiento Ofrecido S/I",
+                    "idConcepto": 22,
+                    "prom12Mes": 0,
+                    "proyectado": 0.1000000000000000,
+                    "variacion": 0.1000000000000000
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Promedio Cheq Empl",
+                    "idConcepto": 23,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Recipr x Días de Dep",
+                    "idConcepto": 24,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 406790.7266300000000000,
+                    "concepto": "SI y CB",
+                    "idConcepto": 25,
+                    "prom12Mes": 1831136.0509500000000000,
+                    "proyectado": 406790.7266300000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 1054551.5905800000000000,
+                "idConcepto": 26,
+                "prom12Mes": 6009001.7001650000000000,
+                "proyectado": 1054551.6905800000000000,
+                "variacion": 0.1000000000000000
+            }
+        },
+        "detalladoColocacion": {
+            "lstColocacion": [
+                {
+                    "actual": 1462395.6988700000000000,
+                    "concepto": "Cartera Actual MN",
+                    "idConcepto": 11,
+                    "prom12Mes": 8741893.0021650000000000,
+                    "proyectado": 1462395.6988700000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 51281.1775900000000000,
+                    "concepto": "Crédito de Nómina",
+                    "idConcepto": 12,
+                    "prom12Mes": 180327.8677750000000000,
+                    "proyectado": 51281.1775900000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Cartera Nueva",
+                    "idConcepto": 13,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0,
+                    "concepto": "Crédito de nómina adicional",
+                    "idConcepto": 14,
+                    "prom12Mes": 0,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Cartera Actual USD",
+                    "idConcepto": 15,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 8472.7879000000000000,
+                    "concepto": "Arrendadora y Factor",
+                    "idConcepto": 16,
+                    "prom12Mes": 61490.63555000000000000,
+                    "proyectado": 8472.7879000000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 1522149.6643600000000000,
+                "idConcepto": 17,
+                "prom12Mes": 8983711.50549000000000000,
+                "proyectado": 1522149.6643600000000000,
+                "variacion": 0E-16
+            }
+        },
+        "detalladoEgresos": {
+            "lstEgresos": [
+                {
+                    "actual": 543.393846932140079633,
+                    "concepto": "Reservas",
+                    "idConcepto": 45,
+                    "prom12Mes": 466.9761100000000000,
+                    "proyectado": 543.393846932140079633,
+                    "tipo": "RESERVAS",
+                    "variacion": 0E-18
+                },
+                {
+                    "actual": 521.3775907806666667,
+                    "concepto": "Ipab",
+                    "idConcepto": 46,
+                    "prom12Mes": 3015.2010900000000000,
+                    "proyectado": 521.3775907806666667,
+                    "tipo": "FOBAPROA",
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 717.8725600000000000,
+                    "concepto": "Gastos Operativos",
+                    "idConcepto": 44,
+                    "prom12Mes": 2827.8830000000000000,
+                    "proyectado": 717.8725600000000000,
+                    "tipo": "GASTO_OPERATIVO",
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 0.0,
+                "prom12Mes": 0.0,
+                "proyectado": 0.0,
+                "variacion": 0.0
+            }
+        },
+        "lstResumen": [
+            {
+                "actual": 0.0,
+                "concepto": "Beneficio Capital",
+                "idConcepto": 51,
+                "prom12Mes": 0.0,
+                "proyectado": 0.0,
+                "variacion": 0.0
+            },
+            {
+                "actual": 920.4009100000000000,
+                "concepto": "Gasto Área",
+                "idConcepto": 49,
+                "prom12Mes": 107.9140400000000000,
+                "proyectado": 920.4009100000000000,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 3567.709298650829617267,
+                "concepto": "Contribución Mensual",
+                "idConcepto": 50,
+                "prom12Mes": 22335.1566353846153846,
+                "proyectado": 3567.710263370829617267,
+                "variacion": 0.000964720000000000
+            },
+            {
+                "actual": 557.9358763255873870,
+                "concepto": "Gastos Corporativos",
+                "idConcepto": 52,
+                "prom12Mes": 557.9358763255873870,
+                "proyectado": 557.9358763255873870,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 3009.773422325242230267,
+                "concepto": "Utilidad Antes de Impuestos",
+                "idConcepto": 53,
+                "prom12Mes": 21777.2207590590279976,
+                "proyectado": 3009.774387045242230267,
+                "variacion": 0.000964720000000000
+            }
+        ],
+        "pondCapCredAct": 0.0301532904022083,
+        "pondCapCredActLiq": 0,
+        "roe": {
+            "actual": 0.3679386217686120,
+            "concepto": "ROE",
+            "idConcepto": 56,
+            "prom12Mes": 0.5257948706067720,
+            "proyectado": 0.3679387529632368,
+            "variacion": 1.311946248E-7
+        },
+        "totalCostos": {
+            "actual": 1782.643997712806746333,
+            "concepto": "Total Costos",
+            "idConcepto": 47,
+            "prom12Mes": 6310.0602000000000000,
+            "proyectado": 1782.643997712806746333,
+            "variacion": 0E-18
+        },
+        "totalIngresos": {
+            "actual": 6270.7542063636363636,
+            "concepto": "Total Ingresos",
+            "idConcepto": 43,
+            "prom12Mes": 28753.1308753846153846,
+            "proyectado": 6270.7551710836363636,
+            "variacion": 0.0009647200000000
+        },
+        "utilDirectaOperativa": {
+            "actual": 4488.110208650829617267,
+            "concepto": "Utilidad Directa Operativa",
+            "idConcepto": 48,
+            "prom12Mes": 22443.0706753846153846,
+            "proyectado": 4488.111173370829617267,
+            "variacion": 0.000964720000000000
+        },
+        "utilNeta": {
+            "actual": 1901.02709462766945260453122699031078659,
+            "concepto": "Utilidad Neta",
+            "idConcepto": 54,
+            "prom12Mes": 15244.05453134131959832,
+            "proyectado": 1901.02776993166945260449263819031078659,
+            "variacion": 0.00067530399999999996141120000000000
+        }
+    },
+    "analisisDetalladoRar": {
+        "capital": {
+            "actual": 90.800300273427906432069091862031250,
+            "concepto": "Capital",
+            "idConcepto": 55,
+            "prom12Mes": 509.51679475457137379902383405801611203809250000000000000000,
+            "proyectado": 90.8003003046779064320690918620312500,
+            "variacion": 3.12500000000000000000000000E-8
+        },
+        "comisiones": {
+            "actual": 11.3582965963636368,
+            "concepto": "Comisiones",
+            "idConcepto": 42,
+            "prom12Mes": 11.3136962123076924,
+            "proyectado": 11.3582965963636368,
+            "variacion": 0E-16
+        },
+        "comprobarRar": 0,
+        "comprobarUtNeta": 0E-35,
+        "detMargenCaptacion": {
+            "lstMargenCaptacion": [
+                {
+                    "actual": 12.2767268400000000,
+                    "concepto": "Cheques con Intereses",
+                    "idConcepto": 33,
+                    "prom12Mes": 64.9912305600000000,
+                    "proyectado": 12.2767268400000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 9.2675090400000000,
+                    "concepto": "Cheques sin Intereses",
+                    "idConcepto": 34,
+                    "prom12Mes": 54.2334478200000000,
+                    "proyectado": 9.2675090400000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 6.3600480000000000,
+                    "concepto": "Inversiones y Mesa Din",
+                    "idConcepto": 35,
+                    "prom12Mes": 38.5455196200000000,
+                    "proyectado": 6.3600480000000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crecimiento Ofrecido C/I",
+                    "idConcepto": 36,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crecimiento Ofrecido S/I",
+                    "idConcepto": 37,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0.0000115766400000,
+                    "variacion": 0.0000115766400000
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Promedio Cheq Empl",
+                    "idConcepto": 38,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Recipr x Días de Dep",
+                    "idConcepto": 39,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 1.7630588400000000,
+                    "concepto": "SI y CB",
+                    "idConcepto": 40,
+                    "prom12Mes": 12.2829652200000000,
+                    "proyectado": 1.7630588400000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 29.6673427200000000,
+                "idConcepto": 41,
+                "prom12Mes": 170.0531632200000000,
+                "proyectado": 29.6673542966400000,
+                "variacion": 0.0000115766400000
+            }
+        },
+        "detMargenColocacion": {
+            "lstMargenColocacion": [
+                {
+                    "actual": 33.7356207600000000,
+                    "concepto": "Créditos Actuales",
+                    "idConcepto": 27,
+                    "prom12Mes": 163.1184414600000000,
+                    "proyectado": 33.7356207600000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crédito de nómina adicional",
+                    "idConcepto": 29,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Créditos USD",
+                    "idConcepto": 30,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0.4877904000000000,
+                    "concepto": "Arrendadora y Factor",
+                    "idConcepto": 31,
+                    "prom12Mes": 0.5522696123076924,
+                    "proyectado": 0.4877904000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 34.2234111600000000,
+                "idConcepto": 32,
+                "prom12Mes": 163.6707110723076924,
+                "proyectado": 34.2234111600000000,
+                "variacion": 0E-16
+            }
+        },
+        "detalladoCaptacion": {
+            "lstCaptacion": [
+                {
+                    "actual": 113.0163551900000000,
+                    "concepto": "Cheques con intereses",
+                    "idConcepto": 18,
+                    "prom12Mes": 718.7162289100000000,
+                    "proyectado": 113.0163551900000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 85.2349897400000000,
+                    "concepto": "Cheques sin Intereses",
+                    "idConcepto": 19,
+                    "prom12Mes": 604.5523491700000000,
+                    "proyectado": 85.2349897400000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 449.5095190200000000,
+                    "concepto": "Inversiones y Mesa Din",
+                    "idConcepto": 20,
+                    "prom12Mes": 2854.5970711350000000,
+                    "proyectado": 449.5095190200000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crecimiento Ofrecido C/I",
+                    "idConcepto": 21,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crecimiento Ofrecido S/I",
+                    "idConcepto": 22,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0.0001000000000000,
+                    "variacion": 0.0001000000000000
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Promedio Cheq Empl",
+                    "idConcepto": 23,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Recipr x Días de Dep",
+                    "idConcepto": 24,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 406.7907266300000000,
+                    "concepto": "SI y CB",
+                    "idConcepto": 25,
+                    "prom12Mes": 1831.1360509500000000,
+                    "proyectado": 406.7907266300000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 1054.5515905800000000,
+                "idConcepto": 26,
+                "prom12Mes": 6009.0017001650000000,
+                "proyectado": 1054.5516905800000000,
+                "variacion": 0.0001000000000000
+            }
+        },
+        "detalladoColocacion": {
+            "lstColocacion": [
+                {
+                    "actual": 1462.3956988700000000,
+                    "concepto": "Cartera Actual MN",
+                    "idConcepto": 11,
+                    "prom12Mes": 8741.8930021650000000,
+                    "proyectado": 1462.3956988700000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 51.2811775900000000,
+                    "concepto": "Crédito de Nómina",
+                    "idConcepto": 12,
+                    "prom12Mes": 180.3278677750000000,
+                    "proyectado": 51.2811775900000000,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Cartera Nueva",
+                    "idConcepto": 13,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Crédito de nómina adicional",
+                    "idConcepto": 14,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 0E-16,
+                    "concepto": "Cartera Actual USD",
+                    "idConcepto": 15,
+                    "prom12Mes": 0E-16,
+                    "proyectado": 0E-16,
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 8.4727879000000000,
+                    "concepto": "Arrendadora y Factor",
+                    "idConcepto": 16,
+                    "prom12Mes": 61.4906355500000000,
+                    "proyectado": 8.4727879000000000,
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 1522.1496643600000000,
+                "idConcepto": 17,
+                "prom12Mes": 8983.7115054900000000,
+                "proyectado": 1522.1496643600000000,
+                "variacion": 0E-16
+            }
+        },
+        "detalladoEgresos": {
+            "lstEgresos": [
+                {
+                    "actual": 6.52072616318568096,
+                    "concepto": "Reservas",
+                    "idConcepto": 45,
+                    "prom12Mes": 5.6037133200000000,
+                    "proyectado": 6.52072616318568096,
+                    "tipo": "RESERVAS",
+                    "variacion": 0E-17
+                },
+                {
+                    "actual": 6.2565310893680004,
+                    "concepto": "Ipab",
+                    "idConcepto": 46,
+                    "prom12Mes": 36.1824130800000000,
+                    "proyectado": 6.2565310893680004,
+                    "tipo": "FOBAPROA",
+                    "variacion": 0E-16
+                },
+                {
+                    "actual": 8.6144707200000000,
+                    "concepto": "Gastos Operativos",
+                    "idConcepto": 44,
+                    "prom12Mes": 33.9345960000000000,
+                    "proyectado": 8.6144707200000000,
+                    "tipo": "GASTO_OPERATIVO",
+                    "variacion": 0E-16
+                }
+            ],
+            "total": {
+                "actual": 0.0,
+                "prom12Mes": 0.0,
+                "proyectado": 0.0,
+                "variacion": 0.0
+            }
+        },
+        "lstResumen": [
+            {
+                "actual": 9.6475137439916603728260545965224479062500000000000,
+                "concepto": "Beneficio Capital",
+                "idConcepto": 51,
+                "prom12Mes": 54.136057539314257551871522563897400300824920506500000000000000000000000000,
+                "proyectado": 9.64751374731196662282605459652244790625000000000000,
+                "variacion": 3.32030625000000000000000000000000000000000E-9
+            },
+            {
+                "actual": 11.0448109200000000,
+                "concepto": "Gasto Área",
+                "idConcepto": 49,
+                "prom12Mes": 1.2949684800000000,
+                "proyectado": 11.0448109200000000,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 42.81251158380995544,
+                "concepto": "Contribución Mensual",
+                "idConcepto": 50,
+                "prom12Mes": 268.0218796246153848,
+                "proyectado": 42.81252316044995544,
+                "variacion": 0.00001157664000000
+            },
+            {
+                "actual": 6.6952305159070488,
+                "concepto": "Gastos Corporativos",
+                "idConcepto": 52,
+                "prom12Mes": 6.6952305159070488,
+                "proyectado": 6.6952305159070488,
+                "variacion": 0E-16
+            },
+            {
+                "actual": 45.7647948118945670128260545965224479062500000000000,
+                "concepto": "Utilidad Antes de Impuestos",
+                "idConcepto": 53,
+                "prom12Mes": 315.462706648022593551871522563897400300824920506500000000000000000000000000,
+                "proyectado": 45.76480639185487326282605459652244790625000000000000,
+                "variacion": 0.00001157996030625000000000000000000000000000000000
+            }
+        ],
+        "pondCapCredAct": 0.0301532904022083,
+        "pondCapCredActLiq": 0,
+        "roe": {
+            "actual": 0.35281112806739393,
+            "concepto": "ROE",
+            "idConcepto": 56,
+            "prom12Mes": 0.43339865717279104,
+            "proyectado": 0.35281121721849629,
+            "variacion": 8.915110236E-8
+        },
+        "totalCostos": {
+            "actual": 21.39172797255368100,
+            "concepto": "Total Costos",
+            "idConcepto": 47,
+            "prom12Mes": 75.7207224000000000,
+            "proyectado": 21.39172797255368100,
+            "variacion": 0E-17
+        },
+        "totalIngresos": {
+            "actual": 75.2490504763636368,
+            "concepto": "Total Ingresos",
+            "idConcepto": 43,
+            "prom12Mes": 345.0375705046153848,
+            "proyectado": 75.2490620530036368,
+            "variacion": 0.0000115766400000
+        },
+        "utilDirectaOperativa": {
+            "actual": 53.85732250380995544,
+            "concepto": "Utilidad Directa Operativa",
+            "idConcepto": 48,
+            "prom12Mes": 269.3168481046153848,
+            "proyectado": 53.85733408044995544,
+            "variacion": 0.00001157664000000
+        },
+        "utilNeta": {
+            "actual": 32.03535636832619690897823821756571353437500000000000,
+            "concepto": "Utilidad Neta",
+            "idConcepto": 54,
+            "prom12Mes": 220.8238946536158154863100657947281802105774443545500000000000000000000000000,
+            "proyectado": 32.035364474298411283978238217565713534375000000000000,
+            "variacion": 0.000008105972214375000000000000000000000000000000000
+        }
+    },
+    "concentradoActual": {
+        "capitalRequerido": 62000354.912124930155490247739590,
+        "captacion": 676865040.05,
+        "cartera": 1522149664.36,
+        "margenCaptacion": 2178258.13,
+        "margenCartera": 2851950.93,
+        "roeBase": 0.3679386217686120,
+        "totalCapital": 62000354.912124930155490247739590,
+        "totalMargen": 5030209.06,
+        "utilidadNeta": 1901027.094627669452604531226990310786591376
+    },
+    "datosRar": {
+        "estudioRar": 0
+    },
+    "estatus": {
+        "clave": 0,
+        "descripcion": "Éxito"
+    },
+    "estudioActual": {
+        "atm": {
+            "lstComisiones": [
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Inversión",
+                    "monto": 13265.01,
+                    "tarifaCosto": 3316.2525000000000000
+                },
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Operación",
+                    "monto": 14928.63,
+                    "tarifaCosto": 3732.1575000000000000
+                },
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Dotación e Inmov.",
+                    "monto": 50947.26,
+                    "tarifaCosto": 12736.8150000000000000
+                }
+            ],
+            "total": 79140.90
+        },
+        "bem": {
+            "lstComisiones": [
+                {
+                    "cantidad": 16874,
+                    "concepto": "Banco en su Empresa - Transferencias",
+                    "monto": 16874,
+                    "tarifaCosto": 1.0000000000000000
+                },
+                {
+                    "cantidad": 27776,
+                    "concepto": "Banco en su Empresa - Consultas",
+                    "monto": 23609.60,
+                    "tarifaCosto": 0.8500000000000000
+                },
+                {
+                    "cantidad": 4871,
+                    "concepto": "Banco en su Empresa - Speua",
+                    "monto": 8621.67,
+                    "tarifaCosto": 1.7700000000000000
+                }
+            ],
+            "total": 49105.27
+        },
+        "beneficioCapital": 0,
+        "contribBrutaRecursos": 0.03217698537730200,
+        "contribucion": 4194089.7786508296173352156,
+        "lstComisionesCobradas": [
+            {
+                "cantidad": 9711,
+                "concepto": "Cajeros Automáticos",
+                "monto": 80394.11,
+                "tarifaCosto": 8.2786644011945217
+            },
+            {
+                "cantidad": 0,
+                "concepto": "Uso cajero otros bcos",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 1,
+                "concepto": "Otras comisiones",
+                "monto": 866130.6063636363636364,
+                "tarifaCosto": 866130.6063636363636364
+            }
+        ],
+        "lstComisionesPagadas": [
+            {
+                "cantidad": 0,
+                "concepto": "Chequera Especial",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 2366,
+                "concepto": "Costo Sucursal",
+                "monto": 42588,
+                "tarifaCosto": 18.0000000000000000
+            },
+            {
+                "cantidad": 0,
+                "concepto": "Bonificaciones",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 10,
+                "concepto": "Uso Cajero Bte / Red",
+                "monto": 92.63,
+                "tarifaCosto": 9.2630000000000000
+            },
+            {
+                "cantidad": 713,
+                "concepto": "Concentración Empresarial",
+                "monto": 11643.23,
+                "tarifaCosto": 16.3299158485273492
+            },
+            {
+                "cantidad": 84,
+                "concepto": "Cheques por Cámara",
+                "monto": 672,
+                "tarifaCosto": 8.0000000000000000
+            }
+        ],
+        "lstFobaproa": [
+            {
+                "cantidad": 1513676876.46,
+                "concepto": "FOBAPROA",
+                "monto": 521377.5907806666666677,
+                "tarifaCosto": 0.004
+            }
+        ],
+        "lstReservas": [
+            {
+                "rvaModeloInterno": 0,
+                "saldoExpuesto": 0,
+                "cantidad": 1,
+                "concepto": "Reservas",
+                "monto": 543393.8469321400796334844,
+                "tarifaCosto": 543393.8469321400796334844
+            }
+        ],
+        "lstTotalCaptacion": [
+            {
+                "tipoCuenta": "VISTA_SIN_INTERESES_MN",
+                "interesCobrado": 772292.42,
+                "interesPagado": 0,
+                "margen": 0.1052215429700880,
+                "nombre": "Vista Sin Intereses MN",
+                "promedio": 85234989.74,
+                "resultado": 772292.42,
+                "tasaCobrada": 0.1052215429700880,
+                "tasaPagada": 0E-16
+            },
+            {
+                "tipoCuenta": "VISTA_CON_INTERESES_MN",
+                "interesCobrado": 1029360.37,
+                "interesPagado": 6299.80,
+                "margen": 0.1051237528725240,
+                "nombre": "Vista Con Intereses MN",
+                "promedio": 113016355.19,
+                "resultado": 1023060.57,
+                "tasaCobrada": 0.1057710836736360,
+                "tasaPagada": 0.0006473308011120
+            },
+            {
+                "tipoCuenta": "VISTA_SIN_INTERESES_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Vista Sin Intereses USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "VISTA_CON_INTERESES_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Vista Con Intereses USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PLAZOS_MN",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Plazos MN",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PLAZOS_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Plazos USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "MESA_DINERO",
+                "interesCobrado": 2329416.14,
+                "interesPagado": 1946511,
+                "margen": 0.0092906667335880,
+                "nombre": "Mesa Dinero",
+                "promedio": 478613695.12,
+                "resultado": 382905.14,
+                "tasaCobrada": 0.0565200797266440,
+                "tasaPagada": 0.0472294129930920
+            },
+            {
+                "tipoCuenta": "SOCIEDADES_INVERSION",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Sociedades de Inversión",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "CASA_BOLSA",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Casa de Bolsa",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PROM_CHEQ_EMPLEADO",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Prom Cheques Empl",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            }
+        ],
+        "lstTotalColocacion": [
+            {
+                "tipoCuenta": "CREDITO_MN",
+                "interesCobrado": 15848426.37,
+                "interesPagado": 14077339.34,
+                "margen": 0.0140642250929640,
+                "nombre": "Crédito MN",
+                "promedio": 1462395698.87,
+                "resultado": 1771087.03,
+                "tasaCobrada": 0.1258525595079000,
+                "tasaPagada": 0.1117883344149360
+            },
+            {
+                "tipoCuenta": "CREDITO_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Crédito USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "CREDINOMINA",
+                "interesCobrado": 1475420.36,
+                "interesPagado": 435205.66,
+                "margen": 0.2355623098545240,
+                "nombre": "Crédito de nómina",
+                "promedio": 51281177.59,
+                "resultado": 1040214.70,
+                "tasaCobrada": 0.3341170125821160,
+                "tasaPagada": 0.0985547027275920
+            },
+            {
+                "tipoCuenta": "ARRENDADORA_FACTORAJE",
+                "interesCobrado": 117257.3,
+                "interesPagado": 76608.1,
+                "margen": 0.0557142739058160,
+                "nombre": "Arrendadora y Factoraje",
+                "promedio": 8472787.9,
+                "resultado": 40649.2,
+                "tasaCobrada": 0.1607142411082080,
+                "tasaPagada": 0.1049999672023920
+            }
+        ],
+        "margenCaptacion": {
+            "interesCobrado": 1801652.79,
+            "interesPagado": 6299.80,
+            "margen": 0.1051657961583600,
+            "nombre": "Margen de Captación",
+            "promedio": 198251344.93,
+            "resultado": 1795352.99,
+            "tasaCobrada": 0.1055348174518560,
+            "tasaPagada": 0.0003690212934960
+        },
+        "margenColocacion": {
+            "interesCobrado": 17323846.73,
+            "interesPagado": 14512545.00,
+            "margen": 0.0215682590100600,
+            "nombre": "Margen de Colocación",
+            "promedio": 1513676876.46,
+            "resultado": 2811301.73,
+            "tasaCobrada": 0.1329082571735280,
+            "tasaPagada": 0.1113399981634680
+        },
+        "margenTotal": {
+            "interesCobrado": 0,
+            "interesPagado": 0,
+            "margen": 0.0353421765834120,
+            "nombre": "Margen Total",
+            "promedio": 1513676876.46,
+            "resultado": 4606654.72,
+            "tasaCobrada": 0,
+            "tasaPagada": 0
+        },
+        "sbnf": {
+            "lstComisiones": [
+                {
+                    "cantidad": 4,
+                    "concepto": "S.B.N.F. - Otros",
+                    "monto": 7279.37,
+                    "tarifaCosto": 1819.8425000000000000
+                }
+            ],
+            "total": 7279.37
+        },
+        "sumanomina": {
+            "lstComisiones": [
+                {
+                    "cantidad": 24904,
+                    "concepto": "Sumanómina - Cajeros Banorte",
+                    "monto": 212327.85,
+                    "tarifaCosto": 8.5258532765820752
+                },
+                {
+                    "cantidad": 417,
+                    "concepto": "Sumanómina - Cajeros Red",
+                    "monto": 4.17,
+                    "tarifaCosto": 0.0100000000000000
+                },
+                {
+                    "cantidad": 4164,
+                    "concepto": "Sumanómina - Operación",
+                    "monto": 11458.33,
+                    "tarifaCosto": 2.7517603266090298
+                }
+            ],
+            "total": 223790.35
+        },
+        "totalComisionCobrada": 946524.7163636363636364,
+        "totalEgresos": 1782643.9977128067463011844,
+        "totalGastoArea": 920400.91,
+        "totalIngresos": 5976733.7763636363636364,
+        "tpv": {
+            "lstComisiones": [
+                {
+                    "cantidad": 18015794.81,
+                    "concepto": "P.O.S. - Tasa intecambio",
+                    "monto": 206614.38,
+                    "tarifaCosto": 0.0114685131674188
+                },
+                {
+                    "cantidad": 37350,
+                    "concepto": "P.O.S. - Autorización",
+                    "monto": 15083.87,
+                    "tarifaCosto": 0.4038519410977242
+                },
+                {
+                    "cantidad": 188,
+                    "concepto": "P.O.S. - Inversión",
+                    "monto": 8195.36,
+                    "tarifaCosto": 43.5923404255319149
+                },
+                {
+                    "cantidad": 133,
+                    "concepto": "P.O.S. - Otros (Seguros e Insumos)",
+                    "monto": 73667.20,
+                    "tarifaCosto": 553.8887218045112782
+                }
+            ],
+            "total": 303560.81
+        },
+        "utilidadDirecta": 3273688.8686508296173352156,
+        "utilidadDirectaRec": 0.02511568526563800
+    },
+    "mensajeConsola": "794",
+    "proyeccion": {
+        "adicionales": {},
+        "atm": {
+            "lstComisiones": [
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Inversión",
+                    "monto": 13265.01,
+                    "tarifaCosto": 3316.2525000000000000
+                },
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Operación",
+                    "monto": 14928.63,
+                    "tarifaCosto": 3732.1575000000000000
+                },
+                {
+                    "cantidad": 4,
+                    "concepto": "Cajeros Automáticos - Dotación e Inmov.",
+                    "monto": 50947.26,
+                    "tarifaCosto": 12736.8150000000000000
+                }
+            ],
+            "total": 79140.90
+        },
+        "bem": {
+            "lstComisiones": [
+                {
+                    "cantidad": 16874,
+                    "concepto": "Banco en su Empresa - Transferencias",
+                    "monto": 16874,
+                    "tarifaCosto": 1.0000000000000000
+                },
+                {
+                    "cantidad": 27776,
+                    "concepto": "Banco en su Empresa - Consultas",
+                    "monto": 23609.60,
+                    "tarifaCosto": 0.8500000000000000
+                },
+                {
+                    "cantidad": 4871,
+                    "concepto": "Banco en su Empresa - Speua",
+                    "monto": 8621.67,
+                    "tarifaCosto": 1.7700000000000000
+                }
+            ],
+            "total": 49105.27
+        },
+        "contribBrutaRecursos": 0.03217699277861760,
+        "contribucionBruta": 4194090.7433708296173352156,
+        "decreto": {
+            "leyenda1": "Aumenta su Rentabilidad"
+        },
+        "gastoArea": 920400.91,
+        "lstComisionesCobradas": [
+            {
+                "cantidad": 9711,
+                "concepto": "Cajeros Automáticos",
+                "monto": 80394.11,
+                "tarifaCosto": 8.2786644011945217
+            },
+            {
+                "cantidad": 0,
+                "concepto": "Uso cajero otros bcos",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 1,
+                "concepto": "Otras comisiones",
+                "monto": 866130.6063636363636364,
+                "tarifaCosto": 866130.6063636363636364
+            }
+        ],
+        "lstComisionesPagadas": [
+            {
+                "cantidad": 0,
+                "concepto": "Chequera Especial",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 2366,
+                "concepto": "Costo Sucursal",
+                "monto": 42588,
+                "tarifaCosto": 18.0000000000000000
+            },
+            {
+                "cantidad": 0,
+                "concepto": "Bonificaciones",
+                "monto": 0,
+                "tarifaCosto": 0E-16
+            },
+            {
+                "cantidad": 10,
+                "concepto": "Uso Cajero Bte / Red",
+                "monto": 92.63,
+                "tarifaCosto": 9.2630000000000000
+            },
+            {
+                "cantidad": 713,
+                "concepto": "Concentración Empresarial",
+                "monto": 11643.23,
+                "tarifaCosto": 16.3299158485273492
+            },
+            {
+                "cantidad": 84,
+                "concepto": "Cheques por Cámara",
+                "monto": 672,
+                "tarifaCosto": 8.0000000000000000
+            }
+        ],
+        "lstFobaproa": [
+            {
+                "cantidad": 1513676876.46,
+                "concepto": "FOBAPROA",
+                "monto": 521377.5907806666666677,
+                "tarifaCosto": 0.004
+            }
+        ],
+        "lstNivelesFirma": [],
+        "lstReservas": [
+            {
+                "noCredito": "-1234567890",
+                "rvaModeloInterno": 0,
+                "saldoExpuesto": 0,
+                "cantidad": 1,
+                "concepto": "Reservas",
+                "monto": 543393.8469321400796334844,
+                "tarifaCosto": 543393.8469321400796334844
+            }
+        ],
+        "lstTotalCaptacion": [
+            {
+                "tipoCuenta": "VISTA_SIN_INTERESES_MN",
+                "interesCobrado": 772292.42,
+                "interesPagado": 0,
+                "margen": 0.1052215429700880,
+                "nombre": "Vista sin intereses MN",
+                "promedio": 85234989.74,
+                "resultado": 772292.42,
+                "tasaCobrada": 0.1052215429700880,
+                "tasaPagada": 0E-16
+            },
+            {
+                "tipoCuenta": "VISTA_SIN_INTERESES_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Vista sin intereses USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "VISTA_CON_INTERESES_MN",
+                "interesCobrado": 1029360.37,
+                "interesPagado": 6299.80,
+                "margen": 0.1051237528725240,
+                "nombre": "Vista con intereses MN",
+                "promedio": 113016355.19,
+                "resultado": 1023060.57,
+                "tasaCobrada": 0.1057710836736360,
+                "tasaPagada": 0.0006473308011120
+            },
+            {
+                "tipoCuenta": "VISTA_CON_INTERESES_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Vista con intereses USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PLAZOS_MN",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Plazo MN",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PLAZOS_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Plazo USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "MESA_DINERO",
+                "interesCobrado": 2329416.14,
+                "interesPagado": 1946511,
+                "margen": 0.0092906667335880,
+                "nombre": "Mesa Dinero",
+                "promedio": 478613695.12,
+                "resultado": 382905.14,
+                "tasaCobrada": 0.0565200797266440,
+                "tasaPagada": 0.0472294129930920
+            },
+            {
+                "tipoCuenta": "SOCIEDADES_INVERSION",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Sociedades Inversión",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "PROM_CHEQ_EMPLEADO",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Promedio Cheques Empleado",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "CASA_BOLSA",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Casa de Bolsa",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "VISTA_SIN_INTERESES_MN",
+                "interesCobrado": 0.9647200000000000,
+                "interesPagado": 0,
+                "margen": 0.1120320000000000,
+                "nombre": "Vista sin intereses MN proyección",
+                "promedio": 100,
+                "resultado": 0.9647200000000000,
+                "tasaCobrada": 0.1120320000000000,
+                "tasaPagada": 0E-16
+            }
+        ],
+        "lstTotalColocacion": [
+            {
+                "tipoCuenta": "CREDITO_MN",
+                "interesCobrado": 15848426.37,
+                "interesPagado": 14077339.34,
+                "margen": 0.0140642250929640,
+                "nombre": "Crédito MN",
+                "promedio": 1462395698.87,
+                "resultado": 1771087.03,
+                "tasaCobrada": 0.1258525595079000,
+                "tasaPagada": 0.1117883344149360
+            },
+            {
+                "tipoCuenta": "CREDITO_USD",
+                "interesCobrado": 0,
+                "interesPagado": 0,
+                "margen": 0,
+                "nombre": "Crédito USD",
+                "promedio": 0,
+                "resultado": 0,
+                "tasaCobrada": 0,
+                "tasaPagada": 0
+            },
+            {
+                "tipoCuenta": "CREDINOMINA",
+                "interesCobrado": 1475420.36,
+                "interesPagado": 435205.66,
+                "margen": 0.2355623098545240,
+                "nombre": "Crédito de Nómina",
+                "promedio": 51281177.59,
+                "resultado": 1040214.70,
+                "tasaCobrada": 0.3341170125821160,
+                "tasaPagada": 0.0985547027275920
+            },
+            {
+                "tipoCuenta": "ARRENDADORA_FACTORAJE",
+                "interesCobrado": 117257.3,
+                "interesPagado": 76608.1,
+                "margen": 0.0557142739058160,
+                "nombre": "Arrendadora y Factoraje",
+                "promedio": 8472787.9,
+                "resultado": 40649.2,
+                "tasaCobrada": 0.1607142411082080,
+                "tasaPagada": 0.1049999672023920
+            }
+        ],
+        "margenCaptacion": {
+            "interesCobrado": 1801653.7547200000000000,
+            "interesPagado": 6299.80,
+            "margen": 0.1051657996217400,
+            "nombre": "Margen de Captación",
+            "promedio": 198251444.93,
+            "resultado": 1795353.9547200000000000,
+            "tasaCobrada": 0.1055348207291160,
+            "tasaPagada": 0.0003690211073400
+        },
+        "margenColocacion": {
+            "interesCobrado": 17323846.73,
+            "interesPagado": 14512545.00,
+            "margen": 0.0215682590100600,
+            "nombre": "Margen de Colocación",
+            "promedio": 1513676876.46,
+            "resultado": 2811301.73,
+            "tasaCobrada": 0.1329082571735280,
+            "tasaPagada": 0.1113399981634680
+        },
+        "margenTotal": {
+            "interesCobrado": 0,
+            "interesPagado": 0,
+            "margen": 0.0353421839847240,
+            "nombre": "Margen Total",
+            "promedio": 1513676876.46,
+            "resultado": 4606655.6847200000000000,
+            "tasaCobrada": 0,
+            "tasaPagada": 0
+        },
+        "resultadoProforma": {
+            "id": "0",
+            "leyenda1": "Rentable",
+            "leyenda2": "Cumple con las condiciones proyectadas"
+        },
+        "sbnf": {
+            "lstComisiones": [
+                {
+                    "cantidad": 4,
+                    "concepto": "S.B.N.F. - Otros",
+                    "monto": 7279.37,
+                    "tarifaCosto": 1819.8425000000000000
+                }
+            ],
+            "total": 7279.37
+        },
+        "sumanomina": {
+            "lstComisiones": [
+                {
+                    "cantidad": 24904,
+                    "concepto": "Sumanómina - Cajeros Banorte",
+                    "monto": 212327.85,
+                    "tarifaCosto": 8.5258532765820752
+                },
+                {
+                    "cantidad": 417,
+                    "concepto": "Sumanómina - Cajeros Red",
+                    "monto": 4.17,
+                    "tarifaCosto": 0.0100000000000000
+                },
+                {
+                    "cantidad": 4164,
+                    "concepto": "Sumanómina - Operación",
+                    "monto": 11458.33,
+                    "tarifaCosto": 2.7517603266090298
+                }
+            ],
+            "total": 223790.35
+        },
+        "totalComisionCobrada": 946524.7163636363636364,
+        "totalEgresos": 1782643.9977128067463011844,
+        "totalIngresos": 5976734.7410836363636364,
+        "tpv": {
+            "lstComisiones": [
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Tasa Intercambio proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Autorización proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Inversión proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Costo Servicio Multicortes proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Costo Cybersource proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Costo Bnt Hospitality Transaction proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Otros (Seguros e Insumos) proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - Costos MPOS proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 0,
+                    "concepto": "P.O.S. - BanorteGas proyección",
+                    "monto": 0,
+                    "tarifaCosto": 0
+                },
+                {
+                    "cantidad": 18015794.81,
+                    "concepto": "P.O.S. - Tasa intecambio",
+                    "monto": 206614.38,
+                    "tarifaCosto": 0.0114685131674188
+                },
+                {
+                    "cantidad": 37350,
+                    "concepto": "P.O.S. - Autorización",
+                    "monto": 15083.87,
+                    "tarifaCosto": 0.4038519410977242
+                },
+                {
+                    "cantidad": 188,
+                    "concepto": "P.O.S. - Inversión",
+                    "monto": 8195.36,
+                    "tarifaCosto": 43.5923404255319149
+                },
+                {
+                    "cantidad": 133,
+                    "concepto": "P.O.S. - Otros (Seguros e Insumos)",
+                    "monto": 73667.20,
+                    "tarifaCosto": 553.8887218045112782
+                }
+            ],
+            "total": 303560.81
+        },
+        "utilidadDirecta": 3273689.8333708296173352156,
+        "utilidadDirectaRec": 0.0251
+    },
+    "resumen": {
+        "anioProceso": 2024,
+        "arrendadoraFactor": {
+            "total": {
+                "etiqueta": "CARTERA ARRENDADORA Y FACTOR",
+                "montoActual": 8472787.9,
+                "montoProy": 8472787.9,
+                "variacion": 0.0
+            }
+        },
+        "captacion": {
+            "concepto": [
+                {
+                    "etiqueta": "Vista sin Intereses MN",
+                    "montoActual": 85234989.74,
+                    "montoProy": 85235089.74,
+                    "variacion": 100.00
+                },
+                {
+                    "etiqueta": "Vista sin Intereses USD",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Vista con Intereses MN",
+                    "montoActual": 113016355.19,
+                    "montoProy": 113016355.19,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Vista con Intereses USD",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Plazo MN",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Plazo USD",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Promedio de cheques por empleado",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Reciprocidad por días de deposito anticipado",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                }
+            ],
+            "total": {
+                "etiqueta": "CAPTACIÓN TRADICIONAL",
+                "montoActual": 198251344.93,
+                "montoProy": 198251444.93,
+                "variacion": 100.00
+            }
+        },
+        "cartera": {
+            "concepto": [
+                {
+                    "etiqueta": "Crédito MN",
+                    "montoActDatamart": 1462395698.87,
+                    "montoActual": 1462395698.87,
+                    "montoProy": 2924791397.74,
+                    "variacion": 1462395698.87
+                },
+                {
+                    "etiqueta": "Crédito USD",
+                    "montoActDatamart": 0,
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                }
+            ],
+            "total": {
+                "etiqueta": "CARTERA",
+                "montoActDatamart": 1462395698.87,
+                "montoActual": 1462395698.87,
+                "montoProy": 2924791397.74,
+                "variacion": 1462395698.87
+            }
+        },
+        "comisiones": {
+            "concepto": [
+                {
+                    "etiqueta": "Otras comisiones",
+                    "montoActDatamart": 810342.34,
+                    "montoActual": 866130.6063636363636364,
+                    "montoProy": 866130.6063636363636364,
+                    "variacion": 0E-16
+                },
+                {
+                    "etiqueta": "Cajeros Automáticos",
+                    "montoActual": 80394.11,
+                    "montoProy": 80394.11,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Uso cajero otros bcos",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Cheque elecrónico proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "TDD Empresarial proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Cobranza Total Banorte proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                }
+            ],
+            "total": {
+                "etiqueta": "COMISIONES",
+                "montoActDatamart": 890736.4500000000000000,
+                "montoActual": 946524.7163636363636364,
+                "montoProy": 946524.7163636363636364,
+                "variacion": 0E-16
+            }
+        },
+        "contBrutaSobreRecTot": {
+            "total": {
+                "etiqueta": "CONTIBUCION BRUTA SOBRE RECURSOS TOTALES",
+                "montoActDatamart": 0.0340493833850760,
+                "montoActual": 0.03217698537730200,
+                "montoProy": 0.03217699277861760,
+                "variacion": 7.40131560E-9
+            }
+        },
+        "creditoNomina": {
+            "total": {
+                "etiqueta": "CRÉDITO DE NÓMINA",
+                "montoActual": 51281177.59,
+                "montoProy": 51281177.59,
+                "variacion": 0.00
+            }
+        },
+        "gastoArea": {
+            "total": {
+                "etiqueta": "GASTO DE ÁREA",
+                "montoActual": 920400.91,
+                "montoProy": 920400.91,
+                "variacion": 0.00
+            }
+        },
+        "gastos": {
+            "montoActual": 1782643.9977128067463011844,
+            "montoProy": 1782643.9977128067463011844
+        },
+        "ingresos": {
+            "montoActual": 5976733.7763636363636364,
+            "montoProy": 5976734.7410836363636364
+        },
+        "margenCaptacion": {
+            "concepto": [
+                {
+                    "etiqueta": "Margen Mesa Dinero, SI y CB",
+                    "montoActual": 382905.14,
+                    "montoProy": 382905.14,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Margen Captación Tradicional",
+                    "montoActual": 1795352.99,
+                    "montoProy": 1795353.9547200000000000,
+                    "variacion": 0.9647200000000000
+                }
+            ],
+            "total": {
+                "etiqueta": "MARGEN CAPTACIÓN",
+                "montoActual": 2178258.13,
+                "montoProy": 2178259.0947200000000000,
+                "variacion": 0.9647200000000000
+            }
+        },
+        "margenCartera": {
+            "concepto": [
+                {
+                    "etiqueta": "Margen Arrendadora y Factor",
+                    "montoActual": 40649.2,
+                    "montoProy": 40649.2,
+                    "variacion": 0.0
+                },
+                {
+                    "etiqueta": "Margen Cartera",
+                    "montoActual": 2811301.73,
+                    "montoProy": 2811301.73,
+                    "variacion": 0.00
+                }
+            ],
+            "total": {
+                "etiqueta": "MARGEN CARTERA",
+                "montoActDatamart": 2851950.93,
+                "montoActual": 2851950.93,
+                "montoProy": 2851950.93,
+                "variacion": 0.00
+            }
+        },
+        "mesProceso": 8,
+        "mesaDineroSiCb": {
+            "concepto": [
+                {
+                    "etiqueta": "Mesa de dinero",
+                    "montoActual": 478613695.12,
+                    "montoProy": 478613695.12,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Sociedades de inversión",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Casa de bolsa",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                }
+            ],
+            "total": {
+                "etiqueta": "MESA DINERO, SI y CB",
+                "montoActual": 478613695.12,
+                "montoProy": 478613695.12,
+                "variacion": 0.00
+            }
+        },
+        "roaAct": 0.03217698537730200,
+        "roaActDatamart": 0.0340493833850760,
+        "roaProy": 0.03217699277861760,
+        "roeAct": 0.3679386217686120,
+        "roeActDatamart": 0.348188937942903867707778260081376,
+        "roeActRar": 0.35281112806739393,
+        "roeProy": 0.3679387529632368,
+        "roeProyRar": 0.35281121721849629,
+        "totalCapital": {
+            "total": {
+                "etiqueta": "TOTAL CAPITAL",
+                "montoActual": 62000354.912124930155490550000000,
+                "montoProy": 62000354.829324930155490550000000,
+                "variacion": -0.082800000000000000000000
+            }
+        },
+        "totalCapitalRar": {
+            "total": {
+                "etiqueta": "TOTAL CAPITAL",
+                "montoActual": 90800300.2734279064320690918620312500000000,
+                "montoProy": 90800300.30467790643206909186203125000000000,
+                "variacion": 0.03125000000000000000000000000000000
+            }
+        },
+        "totalEgresos": {
+            "concepto": [
+                {
+                    "etiqueta": "Sumanomina (Total)",
+                    "montoActual": 223790.35,
+                    "montoProy": 223790.35,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Banco en su empresa (Total)",
+                    "montoActual": 49105.27,
+                    "montoProy": 49105.27,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "POS (Total)",
+                    "montoActual": 303560.81,
+                    "montoProy": 303560.81,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Cajeros automaticos (Total)",
+                    "montoActual": 79140.90,
+                    "montoProy": 79140.90,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "S.B.N.F. (Total)",
+                    "montoActual": 7279.37,
+                    "montoProy": 7279.37,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Chequera Especial",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Costo Sucursal",
+                    "montoActual": 42588,
+                    "montoProy": 42588,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Bonificaciones",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Uso Cajero Bte / Red",
+                    "montoActual": 92.63,
+                    "montoProy": 92.63,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Concentración Empresarial",
+                    "montoActual": 11643.23,
+                    "montoProy": 11643.23,
+                    "variacion": 0.00
+                },
+                {
+                    "etiqueta": "Cheques por Cámara",
+                    "montoActual": 672,
+                    "montoProy": 672,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Reservas",
+                    "montoActDatamart": 243548.99,
+                    "montoActual": 543393.8469321400796334844,
+                    "montoProy": 543393.8469321400796334844,
+                    "variacion": 0E-19
+                },
+                {
+                    "etiqueta": "FOBAPROA",
+                    "montoActDatamart": 521377.5907806666666677,
+                    "montoActual": 521377.5907806666666677,
+                    "montoProy": 521377.5907806666666677,
+                    "variacion": 0E-16
+                },
+                {
+                    "etiqueta": "Asistencias proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Seguro por muerte accidental o pérdidas orgánicas proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "CEB transacciones proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Cheque elecrónico proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "TDD Empresarial proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Cobranza Total Banorte proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                },
+                {
+                    "etiqueta": "Nómina - cambio condiciones seguro por muerte accidental o pérdidas orgánicas proyección",
+                    "montoActual": 0,
+                    "montoProy": 0,
+                    "variacion": 0
+                }
+            ],
+            "total": {
+                "etiqueta": "TOTAL EGRESOS",
+                "montoActDatamart": 1482799.1407806666666677,
+                "montoActual": 1782643.9977128067463011844,
+                "montoProy": 1782643.9977128067463011844,
+                "variacion": 0E-19
+            }
+        },
+        "totalIngresos": {
+            "total": {
+                "etiqueta": "TOTAL INGRESOS",
+                "montoActDatamart": 5920945.5100000000000000,
+                "montoActual": 5976733.7763636363636364,
+                "montoProy": 5976734.7410836363636364,
+                "variacion": 0.9647200000000000
+            }
+        },
+        "totalMargen": {
+            "total": {
+                "etiqueta": "TOTAL MARGEN",
+                "montoActDatamart": 5030209.06,
+                "montoActual": 5030209.06,
+                "montoProy": 5030210.0247200000000000,
+                "variacion": 0.9647200000000000
+            }
+        },
+        "utDirOperativa": {
+            "total": {
+                "etiqueta": "UTILIDAD DIRECTA OPERATIVA",
+                "montoActDatamart": 4438146.3692193333333323,
+                "montoActual": 4194089.7786508296173352156,
+                "montoProy": 4194090.7433708296173352156,
+                "variacion": 0.9647200000000000000
+            }
+        },
+        "utDirRecTot": {
+            "total": {
+                "etiqueta": "UTILIDAD DIRECTA SOBRE RECURSOS TOTALES",
+                "montoActDatamart": 0.0269880832734120,
+                "montoActual": 0.02511568526563800,
+                "montoProy": 0.0251,
+                "variacion": -0.00001568526563800
+            }
+        },
+        "utDirecta": {
+            "total": {
+                "etiqueta": "UTILIDAD DIRECTA",
+                "montoActDatamart": 3517745.4592193333333323,
+                "montoActual": 3273688.8686508296173352156,
+                "montoProy": 3273689.8333708296173352156,
+                "variacion": 0.9647200000000000000
+            }
+        },
+        "utilidadNeta": {
+            "total": {
+                "etiqueta": "UTILIDAD NETA",
+                "montoActDatamart": 2634638.3430918022002967007224084370318190680115918403125000000000000000000,
+                "montoActual": 1901027.09462766945260453122699031080000000,
+                "montoProy": 1901027.76993166945260449263819031080000000,
+                "variacion": 0.67530399999999996141120000000000000
+            }
+        },
+        "utilidadNetaRar": {
+            "total": {
+                "etiqueta": "UTILIDAD NETA",
+                "montoActual": 2669613.030693849742414853184797142794531250000000000000000,
+                "montoProy": 2669613.7061915342736648531847971427945312500000000000000000,
+                "variacion": 0.6754976845312500000000000000000000000000000000000000
+            }
+        }
+    },
+    "version": {
+        "front": "v. 4.7.0",
+        "mfp": "EV13 - 25/10/2024",
+        "odm": "Sep 2023 EV12 - Inc 8 Ago 2024",
+        "ws": "EV13 2024 30/10/24"
+    }
+}
